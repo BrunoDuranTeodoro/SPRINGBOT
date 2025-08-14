@@ -55,7 +55,7 @@ public class ProductController {
             updateProduct.setId(id);
             products.put(id, updateProduct);
         }
-        return null;
+        return updateProduct;
            
         
     }
