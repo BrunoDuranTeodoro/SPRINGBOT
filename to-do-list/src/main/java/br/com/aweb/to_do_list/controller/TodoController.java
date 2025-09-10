@@ -1,4 +1,4 @@
-package br.com.aweb.to_do_list.Controller;
+package br.com.aweb.to_do_list.controller;
 
 import java.time.LocalDate;
 import java.util.Map;

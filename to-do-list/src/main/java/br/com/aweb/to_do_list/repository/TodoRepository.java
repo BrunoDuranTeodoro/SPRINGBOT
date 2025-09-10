@@ -1,4 +1,4 @@
-package br.com.aweb.to_do_list.Repository;
+package br.com.aweb.to_do_list.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

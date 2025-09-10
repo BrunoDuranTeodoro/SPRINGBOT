@@ -1,4 +1,4 @@
-package br.com.aweb.to_do_list.Model;
+package br.com.aweb.to_do_list.model;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
